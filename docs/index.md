@@ -14,7 +14,8 @@
 </script>
 <!-- End Matomo Code -->
 
-# SPAZIO GENESI
+# ![spazio_genesi_logo](https://github.com/SPAZIO-GENESI/sg_assemblee/assets/28682199/43384aea-5a7e-4566-aaca-812cffb6971e)
+SPAZIO GENESI
 ## Trasparenza operativa
 ### archivio dei verbali di assemblea
 
