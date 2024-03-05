@@ -1,4 +1,4 @@
-![spazio_genesi_logo (1)](https://github.com/SPAZIO-GENESI/sg_assemblee/assets/28682199/bf8dc38b-1eb9-4b7a-9362-d161567a7699)![spazio_genesi_logo](https://github.com/SPAZIO-GENESI/sg_assemblee/assets/28682199/2b67856f-7d46-4969-b35b-be50f0c091b9)<!-- Matomo -->
+<!-- Matomo -->
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
