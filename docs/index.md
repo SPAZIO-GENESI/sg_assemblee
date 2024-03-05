@@ -21,4 +21,4 @@
 * [04 Marzo 24 : informativa e arruolamento operativi](./verbali/240404.md)
 
 ---
-> organo di comunicazione di https://spaziogenesi.org/ info@spaziogenesi.org
+> organo di comunicazione di [https://spaziogenesi.org/](https://spaziogenesi.org/) info@spaziogenesi.org
