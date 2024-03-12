@@ -41,8 +41,9 @@ fill="#000000" stroke="none">
 ## Trasparenza operativa
 ### archivio dei verbali di assemblea
 
-* [04 Marzo 24 : informativa e arruolamento operativi](./verbali/240304.md)
 * [12 Marzo 24 : stabilite quote](./verbali/240312.md)
+* [04 Marzo 24 : informativa e arruolamento operativi](./verbali/240304.md)
+
 
 ---
 > organo di comunicazione di [https://spaziogenesi.org/](https://spaziogenesi.org/) info@spaziogenesi.org
