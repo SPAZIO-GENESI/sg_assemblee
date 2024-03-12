@@ -1,0 +1,25 @@
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomodocker.azurewebsites.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '7']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+# 12 marzo 2024 : EX-costituente, stabilite quote definitive
+## biblioteca + online
+[EN](https://spazio--genesi-github-io.translate.goog/sg_assemblee/verbali/240404.html?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp)
+1. recap per i nuovi, tra presenza e online siamo stati in 13
+2. statuto:ancora da ottenere,nella giornata del 13/03/2024 sollecitare il CSV
+3. in merito al ruolo di PRESIDENTE dell'associazione : MC ha già un'ipotesi ma, per adesso, continuare a cercare e individuare persone che potrebbero essere interessate a ricoprire anche solo legalmente tale ruolo. N.B.: la carica si rinnova ogni 6 mesi.
+4. Per le quote e la partecipazione altrui: 30€ - per chi è interessato all'esposizione mensile, previa conoscenza di essere stata scelta per esporre 15 GG. durante quel mese, 72€- quota di partecipazione semestrale 120€- quota di partecipazione annuale. le ultime due opzioni garantiscono la possibilità della selezione per le collettive su cui si investirà in strategie comunicazione e documentazione fisica
+Si specifica che tale due ultime opzioni sono in linea con lo spirito associativo e richiedono una fiducia nell'intero programma del progetto artistico .
+alla presenza di: CA, GL, GCS, FM, LR, MC, SD, EM, GF, VDC, GB, S, ADP
