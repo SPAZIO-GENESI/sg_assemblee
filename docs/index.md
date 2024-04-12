@@ -41,6 +41,7 @@ fill="#000000" stroke="none">
 ## Trasparenza operativa
 ### archivio dei verbali di assemblea
 
+* [10 Aprile 24 : assegnazione ruoli e compiti](./verbali/240410.md)
 * [26 Marzo 24 : riassunto e aggiornamenti](./verbali/240326.md)
 * [12 Marzo 24 : stabilite quote](./verbali/240312.md)
 * [04 Marzo 24 : informativa e arruolamento operativi](./verbali/240304.md)
