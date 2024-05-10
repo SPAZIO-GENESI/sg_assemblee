@@ -31,6 +31,7 @@
 ## Trasparenza operativa
 ### archivio dei verbali di assemblea
 
+* [09 maggio 24 : TSUNAMI idee e proposte per un prodotto editoriale](docs/verbali/240509.md)
 * [23 Aprile 24 : progettazione primo evento](./verbali/240423.md)
 * [10 Aprile 24 : assegnazione ruoli e compiti](./verbali/240410.md)
 * [26 Marzo 24 : riassunto e aggiornamenti](./verbali/240326.md)
