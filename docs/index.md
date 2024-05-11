@@ -30,6 +30,7 @@
                     </g></svg> SPAZIO GENESI
 ## Trasparenza operativa
 ### archivio dei verbali di assemblea
+dal più recente:
 
 * [09 maggio 24 : TSUNAMI idee e proposte per un prodotto editoriale](./verbali/240509.md)
 * [23 Aprile 24 : progettazione primo evento](./verbali/240423.md)
