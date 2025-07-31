@@ -32,6 +32,7 @@
 ### archivio dei verbali di assemblea
 dal più recente:
 
+* [28 luglio 25 : strategie ultimo quadrimestre](./verbali/250728)
 * [22 novembre 24 : strategie di fine anno](./verbali/241122.md)
 * [21 ottobre 24 : re-opening](./verbali/241021.md)
 * [17 luglio 24 : costituzione associazione](./verbali/240717.md)
